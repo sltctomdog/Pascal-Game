@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325644550"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\User\Documents\IUT\Projet\MINIMAL\lib\x86_64-win64 -FuC:\Users\User\Documents\IUT\Projet\MINIMAL\ -FUC:\Users\User\Documents\IUT\Projet\MINIMAL\lib\x86_64-win64\ -FEC:\Users\User\Documents\IUT\Projet\MINIMAL\ -oC:\Users\User\Documents\IUT\Projet\MINIMAL\principal.exe principal.lpr"/>
+</CONFIG>
